@@ -4,7 +4,7 @@ metadata:
   name: eks-component
   description: EKS Cluster
   annotations:
-    backstage.io/kubernetes-cluster: oa-uso-slrv14tst-plt1
+    backstage.io/kubernetes-id: oa-uso-slrv14tst-plt1
 spec:
   type: service
   owner: bessey@etik.com
