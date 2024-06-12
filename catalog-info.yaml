@@ -5,6 +5,7 @@ metadata:
   description: EKS Cluster
   annotations:
     backstage.io/kubernetes-id: oa-uso-slrv14tst-plt1
+    backstage.io/techdocs-ref: https://github.com/bessey-devops/kubernetes-cluster/blob/main/catalog-info.yaml
 spec:
   type: service
   owner: bessey@etik.com
